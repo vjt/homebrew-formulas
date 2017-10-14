@@ -8,10 +8,6 @@ You can add this tap to your Brew and then install my formulae directly using `b
 
     brew tap vjt/formulas
 
-Otherwise, if you are interested only in a single formula of the ones below, you can install it directly:
-
-    brew install vjt/formulas/NAME
-
 Now you will be able to work on those formulae as if there were in canonical Homebrew repository:
 
 ## Formulae
