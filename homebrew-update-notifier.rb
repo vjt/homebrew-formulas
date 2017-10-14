@@ -1,8 +1,8 @@
 class HomebrewUpdateNotifier < Formula
   homepage "https://github.com/vjt/homebrew-update-notifier"
-  url "https://github.com/vjt/homebrew-update-notifier/archive/2.0.0.tar.gz"
-  version "2.0.0"
-  sha256 "9b0804e3f55a2baa2ed8a5c66c289fec86759b35594947789fbf12a3b424b580"
+  url "https://github.com/vjt/homebrew-update-notifier/archive/2.1.0.tar.gz"
+  version "2.1.0"
+  sha256 "e7419225d31aed602e1b68b7588ec5591c44c2be337966ef8cc3373252aed270"
 
   depends_on "terminal-notifier"
 
