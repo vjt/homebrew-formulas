@@ -18,6 +18,13 @@ Announce outdated Homebrew formulas in the OS X Notification Center.
 
     brew install vjt/formulas/homebrew-update-notifier
 
+#### @sscherfke/rust-vcprompt [[:octocat:](https://github.com/sscherfke/rust-vcprompt)]
+
+Displays version control information in your prompt. Fancy but not too much
+and fast.
+
+    brew install vjt/formulas/rust-vcprompt
+
 ## Credits
 
 * :octocat [@frdmn](https://github.com/frdmn/homebrew-formulas)
