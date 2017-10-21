@@ -27,4 +27,4 @@ and fast.
 
 ## Credits
 
-* :octocat [@frdmn](https://github.com/frdmn/homebrew-formulas)
+* :octocat: [@frdmn](https://github.com/frdmn/homebrew-formulas)
