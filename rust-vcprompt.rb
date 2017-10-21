@@ -14,9 +14,9 @@ class RustVcprompt < Formula
   end
 
   test do
-    mkdir 'repo'
-    cd 'repo'
-    system 'git init'
-    assert_equal "[00m git:[34mmaster[00m|[32m[01m✔[00m \n", shell_output("rust-vcprompt")
+    mkdir "repo"
+    cd "repo"
+    system "git", "init"
+    assert_equal "[00m git:[34mmaster[00m|[32m[01m✔[00m \n", shell_output("#{bin}/rust-vcprompt")
   end
 end
