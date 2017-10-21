@@ -9,7 +9,7 @@ class RustVcprompt < Formula
 
   def install
     system "cargo", "build", "--release"
-    system "mv", "target/release/vcprompt", "target/release/rust-vcprompt"
+    mv "target/release/vcprompt", "target/release/rust-vcprompt"
     bin.install "target/release/rust-vcprompt"
   end
 
